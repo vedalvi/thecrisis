@@ -20,7 +20,7 @@ h1{
 
 section.first_div {
     margin-top: 0%;
-    background-image: url(img/cov.jpg);
+    background-image: url(https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1489&q=80);
     background-size: cover;
     justify-content: left;
     height: 100vh;
